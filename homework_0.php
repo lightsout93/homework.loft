@@ -1,7 +1,7 @@
 <?php
-const TESTCONSTANTA = 'asd';
-$user_name = "Igor";
-function show_something()
+const TEST_CONSTANTA = 'asd';
+$userName = "Igor";
+function showSomething()
 {
     return 'SOMETHING';
 }
